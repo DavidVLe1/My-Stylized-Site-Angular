@@ -1,0 +1,16 @@
+{
+  "name": "my-stylized-site",
+  "version": "1.0.0",
+  "description": "my stylized website",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Le",
+  "license": "ISC"
+}
